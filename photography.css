@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+}
+.jango{
+    background-image: url(../images/sony.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
